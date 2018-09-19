@@ -1,0 +1,37 @@
+body {
+	background-color: rgb(185,179,175);}
+h1 {
+	font-family: Arial;
+	color: green;
+	text-align: center;
+	text-shadow: 2px 2px 30px #666666;}
+h1#Apple {
+	background-color: white;
+	margin: 0 auto;
+	text-decoration: underline;
+	color: purple;
+	width: 780px;}
+p {
+	text-align: center;
+	text-transform: uppercase;
+	font-style: italic;
+	border: 1px solid #0088dd;
+	width: 250px;
+	margin: 10px auto;}
+p:first-letter {
+	color: pink;}
+a:link {
+	color: red;
+	text-decoration: line-through}
+a:visited {
+	color: blue;}
+a:hover {
+	color: yellow;}
+a:focus {
+	color: #665544;}
+a:active {
+	color: black;}
+li {
+	display: inline;
+	margin-left: 300px;
+	font-size: 150%;}
